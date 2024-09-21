@@ -1,2 +1,2 @@
 # Amazon clone
-project
+This is the project which is based on amazon website
